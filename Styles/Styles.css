@@ -1,0 +1,13 @@
+body{
+    background-image: url("../Assets/Img/pokemon-g2803a5f9f_1920.jpg");
+    background-attachment: fixed;
+}
+i.bi-heart {
+    color: white;
+}
+.menu{
+    width: 100%;
+}
+.search{
+    width: 35%;
+}
